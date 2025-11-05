@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+accelerate==1.4.0
+datasets==3.2.0
+numpy==1.26.4
+oauthlib==3.3.1
+openai==1.60.0
+pandas==2.2.3
+protobuf==5.29.3
+pyarrow==20.0.0
+safetensors==0.5.2
+tokenizers==0.21.0
+torch==2.4.0+cu121
+transformers==4.48.1
+vllm==0.6.1
+vllm-flash-attn==2.6.1
+watchfiles==1.0.4
+nvidia-ml-py==12.560.30
